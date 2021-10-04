@@ -3,6 +3,8 @@ Continuous Integration Demo
 
 [![Build Status](https://travis-ci.com/Siraphop4Nene/demo-pyci.svg?branch=master)](https://travis-ci.com/Siraphop4Nene/demo-pyci)
 
+[![codecov](https://codecov.io/gh/Siraphop4Nene/demo-pyci/branch/master/graph/badge.svg?token=I62CWDYVAK)](https://codecov.io/gh/Siraphop4Nene/demo-pyci)
+
 This project demonstrates use of Travis CI to build and test a Python project.  
 You will create a repository on Github, then have Travis-CI pull and test it,
 according to a "script" of instructions.
